@@ -6,7 +6,7 @@ This is super similar to my talkback application. Only... you can't delete the b
 
 ## Set Up Options
 
-1. Open it's gh-pages [here](https://keturahdev.github.io/calculator2/)
+1. Open it's gh-pages [here](https://keturahdev.github.io/Cat-Dog-TalkBack/)
 2. Or, clone, and then in terminal cd into the project and type 'open index.html', or to look at the code type 'code .'.
 
 ## Technologies Used
